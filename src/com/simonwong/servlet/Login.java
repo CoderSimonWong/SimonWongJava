@@ -6,6 +6,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 
 @WebServlet("/login")
 public class Login extends HttpServlet {
@@ -19,7 +21,8 @@ public class Login extends HttpServlet {
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String username = req.getParameter("username");
         String password = req.getParameter("password");
-        resp.getWriter().write("success");
+        resp.setHeader("Content-type", "application/json;charset=UTF-8");
+        resp.getWriter().write("{\"code\":\"20000\", \"message\":\"请求成功\"}");
     }
 
 }
