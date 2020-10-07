@@ -80,17 +80,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.38" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER" value="false" />
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
@@ -174,6 +163,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600918920493</updated>
       <workItem from="1600918921516" duration="1285000" />
+      <workItem from="1602038535949" duration="88000" />
+      <workItem from="1602038677372" duration="14000" />
     </task>
     <servers />
   </component>
@@ -190,6 +181,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1218" y="612" width="1071" height="828" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600919792618">
@@ -200,6 +192,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1206" y="673" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1600919039119" />
+    <state x="584" y="393" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602038543357">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="584" y="393" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1602038543357" />
     <state x="1186" y="645" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1600919422080">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
