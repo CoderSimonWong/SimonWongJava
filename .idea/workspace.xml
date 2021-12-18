@@ -7,12 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef58f72-d11b-43ed-bf7f-7f4b5f4cbce2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimonWongJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SimonWongJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SimonWongJava_Web_exploded/WEB-INF/classes/com/simonwong/test/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SimonWongJava_Web_exploded/WEB-INF/classes/com/simonwong/test/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SimonWongJava/com/simonwong/test/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SimonWongJava/com/simonwong/test/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simonwong/test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simonwong/test/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +32,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1r6p7rsBnZIVBGOnbTM7P5B9LOQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,7 +54,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.startup.tasks" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -166,6 +164,8 @@
       <workItem from="1618310572529" duration="214000" />
       <workItem from="1618311218618" duration="1301000" />
       <workItem from="1618312678108" duration="87000" />
+      <workItem from="1639808568025" duration="657000" />
+      <workItem from="1639809276633" duration="122000" />
     </task>
     <servers />
   </component>
@@ -182,7 +182,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
